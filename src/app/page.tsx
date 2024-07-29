@@ -162,7 +162,7 @@ export default function Page() {
                   Building is cool.
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I've atteneded a few hackathons. Here are some of my favorites.
+                  I&apos;ve attended a few hackathons. Here are some of my favorites.
                 </p>
               </div>
             </div>
@@ -199,7 +199,7 @@ export default function Page() {
                 Get in Touch
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Want to connect? Just shoot me a dm{" "}
+                Want to connect? Just shoot me a DM{" "}
                 <Link
                   href={DATA.contact.social.LinkedIn.url}
                   className="text-blue-500 hover:underline"
